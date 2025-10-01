@@ -48,6 +48,10 @@ Requirements
 · seaborn
 · joblib
 
+Publication
+[![DOI](https://zenodo.org/records/17245381)
+
+This work has been published on Zenodo and assigned a Digital Object Identifier (DOI).
 License
 
 MIT License
